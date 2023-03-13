@@ -1,2 +1,2 @@
-# portfolio
-Olá e bem-vindo(a) ao meu repositório do GitHub para o meu site de portfólio!
+<h1> Portfolio </h1>
+<p> Olá e bem-vindo(a) ao meu repositório do GitHub para o meu site de portfólio! Este é um site onde compartilho meu trabalho e experiências profissionais, bem como minhas habilidades e projetos pessoais. Meu objetivo é criar uma presença online profissional para apresentar minhas habilidades e conhecimentos para potenciais empregadores e colaboradores. O site foi construído utilizando tecnologias web como HTML, CSS e futuramente JavaScript. Este repositório é onde mantenho o código-fonte do meu site, bem como outros arquivos relacionados, como imagens e documentos. Sinta-se à vontade para explorar e, se tiver alguma dúvida ou feedback, não hesite em entrar em contato comigo. Obrigado por visitar!</p>
